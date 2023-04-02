@@ -7,7 +7,6 @@ class Vehiculo:
         self.color = color
         self.ruedas = ruedas
         self.puertas = puertas
-        return color, ruedas, puertas
 
 
 class Coche(Vehiculo):
